@@ -5,3 +5,4 @@ type help in command bar for commands
 command bar is just a way to use buttons without clicking them if you want to look cool i guess
 lol
 https://discord.gg/4TXqGRkTmz
+showcase video: https://youtu.be/XE-pCGDap6A
